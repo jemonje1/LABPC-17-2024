@@ -1,0 +1,15 @@
+C:\Users\Estudiante\documents\PrimerSemestre\PensamientoComputacional\Seccion17\1260524\PrimerProyecto\bin\Debug\net6.0\PrimerProyecto.exe
+C:\Users\Estudiante\documents\PrimerSemestre\PensamientoComputacional\Seccion17\1260524\PrimerProyecto\bin\Debug\net6.0\PrimerProyecto.deps.json
+C:\Users\Estudiante\documents\PrimerSemestre\PensamientoComputacional\Seccion17\1260524\PrimerProyecto\bin\Debug\net6.0\PrimerProyecto.runtimeconfig.json
+C:\Users\Estudiante\documents\PrimerSemestre\PensamientoComputacional\Seccion17\1260524\PrimerProyecto\bin\Debug\net6.0\PrimerProyecto.dll
+C:\Users\Estudiante\documents\PrimerSemestre\PensamientoComputacional\Seccion17\1260524\PrimerProyecto\bin\Debug\net6.0\PrimerProyecto.pdb
+C:\Users\Estudiante\documents\PrimerSemestre\PensamientoComputacional\Seccion17\1260524\PrimerProyecto\obj\Debug\net6.0\PrimerProyecto.csproj.AssemblyReference.cache
+C:\Users\Estudiante\documents\PrimerSemestre\PensamientoComputacional\Seccion17\1260524\PrimerProyecto\obj\Debug\net6.0\PrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\documents\PrimerSemestre\PensamientoComputacional\Seccion17\1260524\PrimerProyecto\obj\Debug\net6.0\PrimerProyecto.AssemblyInfoInputs.cache
+C:\Users\Estudiante\documents\PrimerSemestre\PensamientoComputacional\Seccion17\1260524\PrimerProyecto\obj\Debug\net6.0\PrimerProyecto.AssemblyInfo.cs
+C:\Users\Estudiante\documents\PrimerSemestre\PensamientoComputacional\Seccion17\1260524\PrimerProyecto\obj\Debug\net6.0\PrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\documents\PrimerSemestre\PensamientoComputacional\Seccion17\1260524\PrimerProyecto\obj\Debug\net6.0\PrimerProyecto.dll
+C:\Users\Estudiante\documents\PrimerSemestre\PensamientoComputacional\Seccion17\1260524\PrimerProyecto\obj\Debug\net6.0\refint\PrimerProyecto.dll
+C:\Users\Estudiante\documents\PrimerSemestre\PensamientoComputacional\Seccion17\1260524\PrimerProyecto\obj\Debug\net6.0\PrimerProyecto.pdb
+C:\Users\Estudiante\documents\PrimerSemestre\PensamientoComputacional\Seccion17\1260524\PrimerProyecto\obj\Debug\net6.0\PrimerProyecto.genruntimeconfig.cache
+C:\Users\Estudiante\documents\PrimerSemestre\PensamientoComputacional\Seccion17\1260524\PrimerProyecto\obj\Debug\net6.0\ref\PrimerProyecto.dll
