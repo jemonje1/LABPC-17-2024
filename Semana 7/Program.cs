@@ -41,13 +41,14 @@ class T2JM2160524{
             int b5 = monecentavo/500;
             monecentavo %= 500;
             int mon1 = monecentavo/100;
+            Console.WriteLine("Javier Monje 1260524");
             Console.WriteLine("El dinero necesario es:");
             Console.WriteLine (b100+" billetes de 100");
             Console.WriteLine (b50+" billetes de 50");
             Console.WriteLine (b20+" billetes de 20");
             Console.WriteLine (b10+" billetes de 10");
             Console.WriteLine (b5+" billetes de 5");
-            Console.WriteLine (mon1+"monedas de 1");
+            Console.WriteLine (mon1+" monedas de 1");
         }
         
     }
