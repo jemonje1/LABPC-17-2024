@@ -1,0 +1,63 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace L4JEMP1260524
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int n;
+            int a;
+            int i;
+            int b;
+            int c;
+            int resultado;
+            resultado = 0;
+            a = 0;
+            b = 1;
+            c = 0;
+            i = 2;
+            n = (int)double.Parse(textBox1.Text);
+            if (n < 0)
+            {
+                label3.Text = ("Su resultado es " + resultado);
+            }
+            else 
+            {
+                if (n < 1)
+                {
+                    resultado = a;
+                    label3.Text = ("Su resultado es " + resultado);
+                }
+                else
+                {
+                    resultado += b;
+                    while (i < n)
+                    {
+                        c = a + b;
+                        resultado += c;
+                        a = b;
+                        b = c;
+                        i = i + 1;
+                        
+                    }
+                    label3.Text = ("Su resultado es " + resultado);
+                }
+            }
+            
+        }
+    }
+}
