@@ -1,0 +1,15 @@
+C:\Users\Estudiante\Documents\Semana9\bin\Debug\net6.0\Semana9.exe
+C:\Users\Estudiante\Documents\Semana9\bin\Debug\net6.0\Semana9.deps.json
+C:\Users\Estudiante\Documents\Semana9\bin\Debug\net6.0\Semana9.runtimeconfig.json
+C:\Users\Estudiante\Documents\Semana9\bin\Debug\net6.0\Semana9.dll
+C:\Users\Estudiante\Documents\Semana9\bin\Debug\net6.0\Semana9.pdb
+C:\Users\Estudiante\Documents\Semana9\obj\Debug\net6.0\Semana9.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\Semana9\obj\Debug\net6.0\Semana9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Documents\Semana9\obj\Debug\net6.0\Semana9.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Documents\Semana9\obj\Debug\net6.0\Semana9.AssemblyInfo.cs
+C:\Users\Estudiante\Documents\Semana9\obj\Debug\net6.0\Semana9.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\Semana9\obj\Debug\net6.0\Semana9.dll
+C:\Users\Estudiante\Documents\Semana9\obj\Debug\net6.0\refint\Semana9.dll
+C:\Users\Estudiante\Documents\Semana9\obj\Debug\net6.0\Semana9.pdb
+C:\Users\Estudiante\Documents\Semana9\obj\Debug\net6.0\Semana9.genruntimeconfig.cache
+C:\Users\Estudiante\Documents\Semana9\obj\Debug\net6.0\ref\Semana9.dll
