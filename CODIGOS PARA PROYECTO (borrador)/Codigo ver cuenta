@@ -1,0 +1,58 @@
+using System.Xml.Serialization;
+
+namespace Banco
+{
+    class Program
+    {
+        static void Main(string [] args)
+        {
+            Console.WriteLine("Bienvenido al Banco Country Bank");
+            Console.WriteLine("Ingrese su información");
+            Console.WriteLine($"Ingrese su tipo de cuenta \n a. Monetaria en Q \n b. Ahorro en Q \n c. Monetaria en $ \n d. Ahorro en $");
+            string TC = "";
+            char tipocuenta = Console.ReadLine().ToLower()[0];
+            switch (tipocuenta)
+            {
+                case 'a':
+                    TC = "Monetaria en Q";
+                break;
+                case 'b':
+                    TC = "Ahorro en Q";
+                break;
+                case 'c':
+                    TC = "Monetaria en $";
+                break;
+                case 'd':
+                    TC = "Ahorro en $";
+                break;
+                default:
+                    Console.WriteLine("La opción no es válida");
+                break;
+            }
+            Console.WriteLine("");
+            Console.WriteLine("Ingrese su nombre");
+            string nombre = Console.ReadLine();
+            Console.WriteLine("");
+            Console.WriteLine("Ingrese su DPI (5 caracteres)");
+            string DPI = Console.ReadLine();
+            Console.WriteLine("");
+            Console.WriteLine("Ingrese su dirección");
+            string direccion = Console.ReadLine();
+            Console.WriteLine("");
+            Console.WriteLine("Ingrese su número de teléfono");
+            string ntel = Console.ReadLine();
+            double tcuenta = 2500.00;
+
+            Console.ReadKey();
+            string InfoCuenta = $"Su información de cuenta\n Tipo de cuenta: {TC}\n Nombre: {nombre}\n DPI: {DPI}\n Dirección: {direccion}\n Número de telfono: {ntel}\n Saldo: {tcuenta}";
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine(InfoCuenta);
+        }
+    }
+}
