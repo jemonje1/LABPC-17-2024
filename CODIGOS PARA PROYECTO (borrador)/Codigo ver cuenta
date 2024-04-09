@@ -1,3 +1,5 @@
+
+using System.Security.Cryptography.X509Certificates;
 using System.Xml.Serialization;
 
 namespace Banco
@@ -26,15 +28,24 @@ namespace Banco
                     TC = "Ahorro en $";
                 break;
                 default:
-                    Console.WriteLine("La opción no es válida");
+                    Console.WriteLine(" ");
                 break;
             }
+            if (TC == "Monetaria en Q" || TC == "Ahorro en Q" || TC == "Monetaria en $" || TC ==  "Ahorro en $")
+            {
             Console.WriteLine("");
             Console.WriteLine("Ingrese su nombre");
             string nombre = Console.ReadLine();
             Console.WriteLine("");
             Console.WriteLine("Ingrese su DPI (5 caracteres)");
             string DPI = Console.ReadLine();
+            int leng = DPI.Length;
+            for (leng = 5)
+            {
+            Console.WriteLine("Por favor ingrese su DPI (5 caracteres)");
+            DPI = Console.ReadLine();
+            leng = DPI.Length;
+            }
             Console.WriteLine("");
             Console.WriteLine("Ingrese su dirección");
             string direccion = Console.ReadLine();
@@ -42,17 +53,13 @@ namespace Banco
             Console.WriteLine("Ingrese su número de teléfono");
             string ntel = Console.ReadLine();
             double tcuenta = 2500.00;
-
             Console.ReadKey();
             string InfoCuenta = $"Su información de cuenta\n Tipo de cuenta: {TC}\n Nombre: {nombre}\n DPI: {DPI}\n Dirección: {direccion}\n Número de telfono: {ntel}\n Saldo: {tcuenta}";
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine(InfoCuenta);
+            }
+            else
+            {
+                Console.WriteLine("Su tipo de cuenta no existe");
+            }
         }
     }
 }
