@@ -1,0 +1,14 @@
+C:\Users\javu2\Documents\ProgramasPC\CodeProyecto\bin\Debug\net8.0\CodeProyecto.exe
+C:\Users\javu2\Documents\ProgramasPC\CodeProyecto\bin\Debug\net8.0\CodeProyecto.deps.json
+C:\Users\javu2\Documents\ProgramasPC\CodeProyecto\bin\Debug\net8.0\CodeProyecto.runtimeconfig.json
+C:\Users\javu2\Documents\ProgramasPC\CodeProyecto\bin\Debug\net8.0\CodeProyecto.dll
+C:\Users\javu2\Documents\ProgramasPC\CodeProyecto\bin\Debug\net8.0\CodeProyecto.pdb
+C:\Users\javu2\Documents\ProgramasPC\CodeProyecto\obj\Debug\net8.0\CodeProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javu2\Documents\ProgramasPC\CodeProyecto\obj\Debug\net8.0\CodeProyecto.AssemblyInfoInputs.cache
+C:\Users\javu2\Documents\ProgramasPC\CodeProyecto\obj\Debug\net8.0\CodeProyecto.AssemblyInfo.cs
+C:\Users\javu2\Documents\ProgramasPC\CodeProyecto\obj\Debug\net8.0\CodeProyecto.csproj.CoreCompileInputs.cache
+C:\Users\javu2\Documents\ProgramasPC\CodeProyecto\obj\Debug\net8.0\CodeProyecto.dll
+C:\Users\javu2\Documents\ProgramasPC\CodeProyecto\obj\Debug\net8.0\refint\CodeProyecto.dll
+C:\Users\javu2\Documents\ProgramasPC\CodeProyecto\obj\Debug\net8.0\CodeProyecto.pdb
+C:\Users\javu2\Documents\ProgramasPC\CodeProyecto\obj\Debug\net8.0\CodeProyecto.genruntimeconfig.cache
+C:\Users\javu2\Documents\ProgramasPC\CodeProyecto\obj\Debug\net8.0\ref\CodeProyecto.dll
